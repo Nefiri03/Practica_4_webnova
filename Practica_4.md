@@ -3,23 +3,23 @@
 ### Parte 0 y 1: Fase Base y Desarrollo en Paralelo
 *Preparacion del entorno, creacion de ramas, commits correspondientes y fusion inicial.*
 - ![Fase base](captura_1.png)
-- ![Creacion ramas](Captura%desde%2026-10-26%08-33-58.png)
-- ![Desarrollo ramas](Captura%desde%2026-10-26%08-37-42.png)
-- ![Fusiones sin conflicto](Captura%desde%2026-10-26%08-42-05.png)
-- ![Consolidacion y limpieza](Captura%desde%2026-10-26%08-43-40.png)
+- ![Creacion ramas](captura_2.png)
+- ![Desarrollo ramas](captura_3.png)
+- ![Fusiones sin conflicto](captura_4.png)
+- ![Consolidacion y limpieza](captura_5.png)
 
 ### Parte 2: Resolución del Conflicto
 *Conflicto modificando la misma linea en `main` y `rediseño`, visualizacion de las marcas de Git.*
-- ![Divergencia en rediseño](Captura%desde%2026-10-26%08-45-18.png)
+- ![Divergencia en rediseño](captura_6.png)
 - **Momento del conflicto:**
-  ![Conflicto de fusion](Captura%desde%2026-10-26%09-10-47.png)
+  ![Conflicto de fusion](captura_7.png)
 - **Estado del archivo con las marcas de Git:**
-  ![Marcas de conflicto](Captura%desde%2026-10-26%09-11-18.png)
+  ![Marcas de conflicto](captura_8.png)
 
 ### Parte 3: Visualización del Historial
 *Comandos de resolucion del conflicto y salida del comando `git log --oneline --graph --all` mostrando el arbol completo.*
 - **Resolucion y arbol del historial:**
-  ![Historial final](Captura%desde%2026-10-26%09-25-27.png)
+  ![Historial final](captura_9.png)
 
 ---
 
