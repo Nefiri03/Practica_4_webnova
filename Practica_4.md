@@ -2,7 +2,7 @@
 
 ### Parte 0 y 1: Fase Base y Desarrollo en Paralelo
 *Preparacion del entorno, creacion de ramas, commits correspondientes y fusion inicial.*
-- ![Fase base](Captura%desde%2026-10-26%08-31-47.png)
+- ![Fase base](captura_1.png)
 - ![Creacion ramas](Captura%desde%2026-10-26%08-33-58.png)
 - ![Desarrollo ramas](Captura%desde%2026-10-26%08-37-42.png)
 - ![Fusiones sin conflicto](Captura%desde%2026-10-26%08-42-05.png)
