@@ -12,13 +12,16 @@
 *Conflicto modificando la misma linea en `main` y `rediseño`, visualizacion de las marcas de Git.*
 - ![Divergencia en rediseño](captura_6.png)
 **Momento del conflicto:**
+  
 - ![Conflicto de fusion](captura_7.png)
 **Estado del archivo con las marcas de Git:**
+  
 - ![Marcas de conflicto](captura_8.png)
 
 ### Parte 3: Visualización del Historial
 *Comandos de resolucion del conflicto y salida del comando `git log --oneline --graph --all` mostrando el arbol completo.*
 **Resolucion y arbol del historial:**
+
 - ![Historial final](captura_9.png)
 
 ---
